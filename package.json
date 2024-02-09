@@ -1,0 +1,15 @@
+{
+  "name": "hiteshytproject",
+  "version": "1.0.0",
+  "description": "A Hiresh YT BackEnd series Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jawascript",
+    "express"
+  ],
+  "author": "aamir",
+  "license": "ISC"
+}
